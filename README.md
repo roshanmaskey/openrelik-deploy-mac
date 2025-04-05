@@ -20,7 +20,7 @@ The repo provides the updated `install.sh` script to work with `podman`.
 3. Download the install script
    
    ```shell
-   curl -s -O curl -s -O https://raw.githubusercontent.com/roshanmaskey/openrelik-deploy-mac/refs/heads/main/podman/install.sh
+   curl -s -O https://raw.githubusercontent.com/roshanmaskey/openrelik-deploy-mac/refs/heads/main/podman/install.sh
    ```
 
 4. Install OpenRelik
